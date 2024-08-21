@@ -30,7 +30,7 @@ The **Netflix Clone** replicates the core layout and visual design of Netflix, e
 
 ## 🔗 Live Demo
 
-You can view the live demo of the project [here](https://your-github-page-link).
+You can view the live demo of the project [here](https://mrruhanshaikh.github.io/Netflix-Clone/).
 
 ## 📥 Installation
 
